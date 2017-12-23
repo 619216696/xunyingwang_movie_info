@@ -1,0 +1,2 @@
+# xunyingwang_movie_info
+抓取迅影网全站所有电影信息
